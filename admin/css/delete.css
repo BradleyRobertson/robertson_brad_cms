@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  color: white;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 19px;
+}
+
+h2 {
+  margin-top: 6%;
+  margin-bottom: 4%;
+font-family: 'Varela Round', sans-serif;
+  font-size: 22px;
+  text-align: center;
+  padding-bottom: 5%;
+  padding-top: 2%;
+}
+
+.deletos{
+  margin-left: 44.8%;
+  font-size: 20px;
+}
+
+.delete {
+  color: red;
+  font-size: 20px;
+}
+
+a {
+  font-size: 18px;
+}
+
+.deletebox{
+  text-align: center;
+  background-color: #363836;
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 7%;
+  padding-bottom: 7%;
+}

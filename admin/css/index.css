@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  color: white;
+  font-size: 25px;
+  font-family: 'Varela Round', sans-serif;
+  conetent-align: center;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  list-style: none;
+  font-size: 19px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  content-align: center;
+  text-align: center;
+}

@@ -1,0 +1,81 @@
+
+/* create user portion */
+
+
+
+
+/* create user portion */
+
+body{
+  background-color: black;
+  color: white;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+h2 {
+  margin-top: 0.5%;
+  margin-bottom: 8%;
+  font-size: 30px;
+  font-family: 'Varela Round', sans-serif;
+}
+
+section{
+  text-align: center;
+  content-align: center;
+  background-color: #363836;
+  width: 32.5%;
+margin-left: 32%;
+border-radius: 15px;
+margin-top: 5%;
+padding-top: 5%;
+padding-bottom: 5%;
+}
+
+form {
+  margin-top: 2%;
+}
+
+input{
+  border-radius: 13px;
+  background-color: #83877A;
+  border-color: black;
+  color: white;
+}
+
+#error{
+  text-align: center;
+  color: red;
+}
+
+label {
+  font-size: 18px;
+  text-align: center;
+}
+
+
+.submit {
+  background-color: black;
+  color: white;
+  height: 30px;
+  font-size: inherit;
+  text-align: center;
+  margin-left: 12%;
+  margin-top: 5%;
+}
+
+/*login portion */
+
+
+
+
+/*login portion */
+
+
+
+
+/*edit user portion */
+
+
+
+
+/*edit user portion */

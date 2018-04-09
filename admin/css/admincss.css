@@ -1,0 +1,39 @@
+body{
+  background-color: black;
+  color: white;
+}
+
+form{
+  width: 38%;
+margin-left: 29.5%;
+margin-top: 5%;
+margin-bottom: 2.5%;
+padding-top: 3%;
+padding-bottom: 3%;
+background-color: #363836;
+content-align: center;
+text-align: center;
+border-radius: 15px;
+border-color: white;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+h3 {
+  margin-top: -1.5%;
+  font-size: 22px;
+  padding-bottom: 3%;
+  font-family: 'Varela Round', sans-serif;
+}
+
+input{
+  border-radius: 13px;
+  background-color: #83877A;
+  border-color: black;
+  color: white;
+}
+
+button{
+  border-radius: 10px;
+  padding-left: 4%;
+  height: 4%;
+}

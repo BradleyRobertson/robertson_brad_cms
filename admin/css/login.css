@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: black;
+	color: white;
+}
+
+label{
+margin-left: 25%;
+padding-top: 5%;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+font-size: 26px;
+text-align: center;
+}
+
+.submit {
+	margin-left: 25%;
+	border-radius: 5px;
+	margin-bottom: 80px;
+	background-color: grey;
+	color: white;
+font-family: 'Varela Round', sans-serif;
+	font-size: 18px;
+	padding-left: 40px;
+	padding-right: 40px;
+	box-shadow: 0px 0px 10px 3px #ffffff;
+}
+.loginSection
+{
+	background-color: grey;
+	width: 50%;
+	margin-left: 25%;
+	border-radius: 8px;
+	margin-top: 12%;
+	box-shadow: 0px 0px 10px 3px #ffffff;
+}
+.adminpage
+{
+font-family: 'Oswald', sans-serif;
+font-size: 25px;
+margin-left: 0%;
+margin-top: 10%;
+text-align: center;
+}
